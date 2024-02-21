@@ -1,0 +1,21 @@
+.stip {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+    /* width: 80%; */
+
+}
+
+.net {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    gap: 70px;
+}
+
+.net h3:hover{
+
+    color: red;
+}
